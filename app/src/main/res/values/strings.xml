@@ -1,0 +1,25 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">ThriveDrive</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="slogan_name" >Thrive to Drive!</string>
+    <string name="powered_by">Powered by FCRIT students</string>
+    <!--Strings for on boarding screen-->
+
+    <!--Titles-->
+    <string name="first_slide_title">Get alerts</string>
+    <string name="second_slide_title">Drive safe</string>
+    <string name="third_slide_title">Happy Journey</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy Your Drive!</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">Stay awake, stay alert with our app.</string>
+    <string name="second_slide_desc">Drive safely with our app. Your destination is reward for safe driving.</string>
+    <string name="third_slide_desc">Everything in life is about enjoying the journey. Bon Voyage!</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app, you do not have to worry.</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+</resources>
